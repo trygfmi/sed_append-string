@@ -52,7 +52,8 @@ eee
 
 aaa
 bbb
-fffccc
+fff
+ccc
 ddd
 eee</code></pre>
 </details>
@@ -122,7 +123,8 @@ eee
 
 aaa
 bbb
-fffccc
+fff
+ccc
 ddd
 eee</code></pre>
 </details>
@@ -152,7 +154,8 @@ eee
 
 aaa
 bbb
-fffccc
+fff
+ccc
 ddd
 eee</code></pre>
 </details>
@@ -226,7 +229,8 @@ eee
 
 aaa
 bbb
-fffccc
+fff
+ccc
 ddd
 eee</code></pre>
 </details>
@@ -418,7 +422,8 @@ eee
 
 aaa
 bbb
-fffccc
+fff
+ccc
 ddd
 eee</code></pre>
 </details>
@@ -448,7 +453,8 @@ eee
 
 aaa
 bbb
-fffccc
+fff
+ccc
 ddd
 eee</code></pre>
 </details>
@@ -464,7 +470,7 @@ eee</code></pre>
 
 
 <div class="wp-block-group">
-<p>追加した文字列だけをその行に表示したい場合、以下のように'(シングルクオーテーション)から後の文字列を次の行に移します</p>
+<p>macOSで追加した文字列だけをその行に表示したい場合、以下のように'(シングルクオーテーション)から後の文字列を次の行に移します</p>
 
 
 
@@ -476,3 +482,15 @@ fff\
 
 
 <p>その際に\(バックスラッシュ)を書き忘れないように気を付けてください</p>
+
+
+
+<h2 class="wp-block-heading">sedコマンドの使い方一覧</h2>
+
+
+
+<p>この記事以外にもsedコマンドの記事があります<br>以下のリンク先で紹介していますのでよろしければご覧ください</p>
+
+
+
+<div class="wp-block-own-print-command-list-page"><a href="https://ss523971.stars.ne.jp/todo/sed-command-list/">sedコマンドの使い方一覧</a></div>
